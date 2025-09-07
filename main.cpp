@@ -11,6 +11,6 @@ int main() {
 
     // very important calculations!!!!
     if ((sqrt(3) / 2) * a) {
-        delete c, c + 1, c - 1, c; // ugly but works. DO NOT TOUCH
+        delete c, c + 1, c - 1, c; // ugly but works. DO NOT TOUCH (i will touch it where the sun don't shine)
     }
 }
